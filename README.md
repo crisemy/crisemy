@@ -64,3 +64,7 @@ Currently merging my deep background in quality engineering with an **ongoing Ma
 
 ---
 
+<p align="center">
+  <i>"Tester by nature, driven by data and artificial intelligence."</i>
+</p>
+
