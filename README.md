@@ -1,11 +1,10 @@
-# 👋 Hi! I'm Cristian
-
-### **AI-Driven QA Architect | Test Automation | Data-Driven Quality Systems | AI-Assisted Testing**
+# Hi there! I'm Cristian
 
 A SQA engineering professional with **over 21 years of experience** driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
 
 ---
 
+### **AI-Driven QA Architect | Test Automation | Data-Driven Quality Systems | AI-Assisted Testing**
 ## Professional Summary
 
 Senior QA Engineer and Test Architect specialized in building scalable automation frameworks, CI/CD-integrated testing ecosystems, and quality observability systems across Fintech, SaaS, and enterprise environments.
