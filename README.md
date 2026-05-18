@@ -1,3 +1,4 @@
+
 # Hi there! I'm Cristian
 
 A SQA engineering professional with **over 21 years of experience** driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
