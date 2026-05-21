@@ -1,7 +1,7 @@
 
-# Hi there! I'm Cristian
+# Hi there! 
 
-A SQA engineering professional with quite a lot of experience driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
+I'm Cristian, a SQA engineering professional with quite a lot of experience driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
 
 ---
 
