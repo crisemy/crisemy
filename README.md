@@ -1,7 +1,7 @@
-
 # Hi there! 
 
 I'm Cristian, a SQA engineering professional with quite a lot of experience driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
+All of my projects are Open Source and opened up to the GitHub Community.
 
 ---
 
@@ -34,17 +34,25 @@ Currently merging my deep background in quality engineering with an **ongoing Ma
 
 ---
 
+## Featured Open-Source & Portfolio Projects
+
+The following core initiatives reflect my current engineering focus, bridging advanced test architecture, CI/CD execution, and data-driven quality intelligence:
+
+| Project / Repository | Core Stack | Key Architectural Highlights |
+| :--- | :--- | :--- |
+| **[playwright-qe-framework](https://github.com/crisemy)**<br>_Enterprise QA Automation Ecosystem_ | Playwright, JavaScript, Docker, Node.js | Scalable, high-performance automation framework following strict Page Object Model (POM) design patterns. Engineered for containerized execution via isolated Docker nodes utilizing historical test environments (`the-internet`). |
+| **[qa-defect-predictive-engine](https://github.com/crisemy)**<br>_Data-Driven Quality Intelligence Portal_ | Python, Streamlit, Pandas, Scikit-learn | An end-to-end quality analytics platform. Processes software tracking datasets to calculate KPI metrics, run distribution-based percentile analysis, and leverage predictive models evaluating lead time and defect leakage. |
+| **[qa-automation-cicd-pipeline](https://github.com/crisemy)**<br>_CI/CD Orchestration & Reporting Infrastructure_ | Jenkins, GitHub Actions, Mochawesome | Robust orchestration pipelines migrated and optimized for heavy multi-thread execution. Implements custom containerized Jenkins runners producing historical `Mochawesome` test reporting dashboards. |
+
+---
+
 ## Highlighted Experience
 
-#### **Senior QA Engineering Consultant (Remote)**  
-*Independent Contractor | 2015 – Present*  
-* **Data Engineering Applied to QA:** Built an end-to-end defect analytics and predictive modeling engine using **Python and Streamlit**, implementing KPI computation, percentile analysis, and a baseline ML model to evaluate lead time predictability.
+#### **Senior QA Engineering Consultant (Remote)** *Independent Contractor | 2015 – Present* * **Data Engineering Applied to QA:** Built an end-to-end defect analytics and predictive modeling engine using **Python and Streamlit**, implementing KPI computation, percentile analysis, and a baseline ML model to evaluate lead time predictability.
 * **Operational Efficiency:** Architected and integrated CI/CD-automated pipelines that reduced regression cycle times by 40% and post-release defects by 25%.
 * **International Engagements:** Successfully delivered quality engineering frameworks for global organizations, including the *Inter-American Development Bank (USA)*, European SaaS platforms, and enterprise systems across LATAM.
 
-#### **Project Director / QA Technical Lead**  
-*BimIT SRL / Global Telecommunications | 2008 – 2015*  
-* Led cross-functional engineering teams delivering 30+ software projects, establishing structured QA validation and governance.
+#### **Project Director / QA Technical Lead** *BimIT SRL / Global Telecommunications | 2008 – 2015* * Led cross-functional engineering teams delivering 30+ software projects, establishing structured QA validation and governance.
 * Owned performance testing strategies, release validation processes, and engineered automation strategies using Selenium and Python frameworks.
 
 ---
@@ -66,4 +74,3 @@ Currently merging my deep background in quality engineering with an **ongoing Ma
 <p align="center">
   <i>"Tester by nature, driven by data and artificial intelligence."</i>
 </p>
-
