@@ -47,8 +47,8 @@ The following core initiatives reflect my current engineering focus, bridging ad
 | **[agentic-playwright](https://github.com/crisemy/agentic-playwright)**<br>_Multi-Agent Test Automation_ | Playwright (Python), FastAPI, CrewAI, Grok API, pytest | AI-Powered multi-agent test automation framework with self-healing locators, predictive test selection, root cause analysis, and real-time agentic dashboard. |
 | **[qa-intelligence-lab](https://github.com/crisemy/qa-intelligence-lab)**<br>_Resilience Testing Platform_ | Node.js, Cypress, Jenkins, Docker, k6, Streamlit, Python | Resilience testing platform combining QA automation, chaos engineering, experiment-driven testing, data analysis, and ML-based failure prediction. |
 | **[ai-test-generator](https://github.com/crisemy/ai-test-generator)**<br>_AI Test Case Generator_ | Python, Streamlit, Groq LLM, scikit-learn, Playwright | Generates test cases and Playwright scripts from user stories, prioritized via ML-based risk scoring (Random Forest) with JIRA integration. |
-| **[cypress-automation-core](https://github.com/crisemy/cypress-automation-core)**<br>_Cypress POM Framework_ | Cypress, JavaScript, Node.js, Docker, Jenkins, Mochawesome | Custom Cypress automation framework following Page Object Model with CI/CD integration via GitHub Actions and Jenkins. |
 | **[ai-qa-pipeline](https://github.com/crisemy/ai-qa-pipeline)**<br>_AI-Driven Regression Pipeline_ | Python, FastAPI, pytest, Cypress, scikit-learn, Streamlit | Intelligent regression pipeline combining QA automation with ML-driven test selection — achieving 64.2% defect detection at 29.9% test execution on NASA PROMISE JM1 dataset. |
+| **[cypress-automation-core](https://github.com/crisemy/cypress-automation-core)**<br>_Cypress POM Framework_ | Cypress, JavaScript, Node.js, Docker, Jenkins, Mochawesome | Custom Cypress automation framework following Page Object Model with CI/CD integration via GitHub Actions and Jenkins. |
 
 ---
 
