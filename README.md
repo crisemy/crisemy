@@ -40,6 +40,8 @@ The following core initiatives reflect my current engineering focus, bridging ad
 
 | Project / Repository | Core Stack | Key Architectural Highlights |
 | :--- | :--- | :--- |
+| **[ai-testing-prompts-agents]([https://github.com/crisemy](https://github.com/crisemy/ai-testing-prompts-agents))**<br>_LLM & Agent Testing_ | Promptfoo, Depeval, Python, Streamlit, LangChain  | A Proof-of-Concept for AI Systems Testing & Evaluation. It ensures generative AI applications are reliable, accurate, and aligned with business guardrails before reaching production. |
+
 | **[playwright-qe-framework](https://github.com/crisemy)**<br>_Enterprise QA Automation Ecosystem_ | Playwright, JavaScript, Docker, Node.js | Scalable, high-performance automation framework following strict Page Object Model (POM) design patterns. Engineered for containerized execution via isolated Docker nodes utilizing historical test environments (`the-internet`). |
 | **[qa-defect-predictive-engine](https://github.com/crisemy)**<br>_Data-Driven Quality Intelligence Portal_ | Python, Streamlit, Pandas, Scikit-learn | An end-to-end quality analytics platform. Processes software tracking datasets to calculate KPI metrics, run distribution-based percentile analysis, and leverage predictive models evaluating lead time and defect leakage. |
 | **[qa-automation-cicd-pipeline](https://github.com/crisemy)**<br>_CI/CD Orchestration & Reporting Infrastructure_ | Jenkins, GitHub Actions, Mochawesome | Robust orchestration pipelines migrated and optimized for heavy multi-thread execution. Implements custom containerized Jenkins runners producing historical `Mochawesome` test reporting dashboards. |
