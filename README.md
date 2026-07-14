@@ -40,6 +40,7 @@ The following core initiatives reflect my current engineering focus, bridging ad
 
 | Project / Repository | Core Stack | Key Architectural Highlights |
 | :--- | :--- | :--- |
+| **[ai-evaluation-harness](https://github.com/crisemy/ai-evaluation-harness)**<br>_AI Evaluation Harness_ | Python, DeepEval, Ollama | Open-source framework for evaluating, validating, and monitoring AI-powered systems. Provides structured, repeatable AI Quality Engineering with CI/CD integration, RAG evaluation, and observability. |
 | **[ai-testing-prompts-agents](https://github.com/crisemy/ai-testing-prompts-agents)**<br>_LLM & Agent Testing_ | Promptfoo, Depeval, Python, Streamlit, LangChain | A Proof-of-Concept for AI Systems Testing & Evaluation. It ensures generative AI applications are reliable, accurate, and aligned with business guardrails before reaching production. |
 | **[auto-qa-agent-insight](https://github.com/crisemy/auto-qa-agent-insight)**<br>_Automated Bug Triage & RCA_ | Python, FastAPI, FAISS, Redis, OpenAI, Docker | Deterministic multi-agent AI pipeline for automated bug triage, root-cause analysis, and remediation proposals with security guardrails and quality gates. |
 | **[owasp-llm](https://github.com/crisemy/owasp-llm)**<br>_LLM Security Test Suite_ | Python, Pydantic, Playwright, OpenAI, Anthropic | Comprehensive security testing framework implementing OWASP Top 10 for LLM Applications with 116 test cases across 10 categories and CI-enforced release gates. |
