@@ -58,10 +58,10 @@ The following core initiatives reflect my current engineering focus, bridging ad
 
 #### **Senior QA Engineering Consultant (Remote)** *Independent Contractor | 2015 – Present* * **Data Engineering Applied to QA:** Built an end-to-end defect analytics and predictive modeling engine using **Python and Streamlit**, implementing KPI computation, percentile analysis, and a baseline ML model to evaluate lead time predictability.
 * **Operational Efficiency:** Architected and integrated CI/CD-automated pipelines
-* **International Engagements:** Successfully delivered quality engineering frameworks for global organizations, including the *Inter-American Development Bank (USA)*, European SaaS platforms, and enterprise systems across LATAM.
+* **International Engagements:** Successfully delivered quality engineering frameworks globally
 
 #### **Project Director / QA Technical Lead** *BimIT SRL / Global Telecommunications | 2008 – 2015* * Led cross-functional engineering teams delivering 30+ software projects, establishing structured QA validation and governance.
-* Owned performance testing strategies, release validation processes, and engineered automation strategies using Selenium and Python frameworks.
+* Owned performance testing strategies, release validation processes, and engineered automation strategies for different Testing frameworks.
 
 ---
 
@@ -69,7 +69,7 @@ The following core initiatives reflect my current engineering focus, bridging ad
 
 * **Master’s Degree in Data Science & Artificial Intelligence** *(In Progress)*.
 * **Bachelor’s Degree** – BSc in Computer Science.
-* **Recent Specializations:** Exploratory Data Analysis (EDA with Python/Pandas), KPI Modeling for Quality Engineering, AI-Assisted Automation Techniques, and DevOps for QA.
+* **Recent Specializations:** Exploratory Data Analysis, KPI Modeling for Quality Engineering, QA Workflow Predictions, AI-Assisted Automation Techniques, and DevOps for QA.
 
 ---
 
