@@ -3,13 +3,15 @@
 I'm Cristian, a SQA engineering professional with quite a lot of experience driving the evolution from traditional testing to intelligent, predictive, and automated quality ecosystems.
 All of my projects are Open Source and opened up to the GitHub Community.
 
+Follow up the site for further info: https://crisemy.github.io/
+
 ---
 
 ## Professional Summary
 
 Senior QA Engineer and Test Architect specialized in building scalable automation frameworks, CI/CD-integrated testing ecosystems, and quality observability systems across Fintech, SaaS, and enterprise environments.
 
-Currently merging my deep background in quality engineering with an **ongoing Master's Degree in Data Science and Artificial Intelligence**. This unique combination allows me to apply advanced analytics, risk modeling, and AI-assisted testing approaches to optimize regression scope, reduce defect leakage, and maximize release predictability.
+Currently merging my deep background in quality engineering with an **ongoing Master's Degree in Data Science and Artificial Intelligence**. This special combo allows me to apply advanced analytics, risk modeling, and AI-assisted testing approaches to optimize regression scope, reduce defect leakage, and maximize release predictability, among others.
 
 ---
 
